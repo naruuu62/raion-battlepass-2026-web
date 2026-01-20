@@ -86,9 +86,9 @@ Semua endpoint sudah tersedia di backend, jadi tugas kalian adalah **mengintegra
 ## Desain Tidak Perlu Ribet
 UI **Ga harus yang heboh banget**.  
 Yang penting:
-- Aplikasi bisa berjalan sesuai ketentuan
-- Navigasi jelas
-- Fitur berfungsi dengan baik
+- Memutar lagu **di aplikasi**
+- Autentikasi berfungsi dengan baik (login & signup)
+- Mengambil data melalui API (getAll)
 
  **Bonus poin** kalau UI/UX kalian rapi dan enak dipakai.
 
@@ -97,7 +97,7 @@ Yang penting:
 ## BONUS POIN
 Nilai tambahan untuk kalian yang:
 
-- Memutar lagu **di aplikasi**
+- Menampilkan keseluruhan atribut 
 - Menulis kode yang **clean & readable**
 - Membuat **unit test** (minimal 1 endpoint)
 
