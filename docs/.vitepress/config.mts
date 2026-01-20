@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Mobile Engineer Battlepass',
   description: 'Live API documentation powered by FastAPI & OpenAPI',
-  base: '/docs-site/',
+  base: '/',
   ignoreDeadLinks: true,
   vue: {
     template: {
